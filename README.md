@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8SRqnPebX1H8lQy5YR/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="400"/>
   <p><img src="https://komarev.com/ghpvc/?username=Lallora&style=flat-square&color=blue" alt=""/></p>
   <h1>
     hey there
