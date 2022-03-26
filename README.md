@@ -8,7 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-* I am currently a Java Backend Developer.
+* I am currently a Java Back-end developer.
 
 ---
 
