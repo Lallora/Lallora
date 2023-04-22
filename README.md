@@ -14,7 +14,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-* Java, C#, VBA, 1С, DevOps
+* Java, JS, C#, VBA, 1С, DevOps
 
 ---
 
